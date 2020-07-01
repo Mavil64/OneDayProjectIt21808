@@ -1,0 +1,6 @@
+Athens	GR
+Tokyo	JPN
+Rome	ITA
+Washington	USA
+Paris	FRA
+Moscow	RUS
